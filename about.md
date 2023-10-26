@@ -9,6 +9,7 @@ permalink: /about/
 Work-in-progress documentation for [MAMBO](https://github.com/beehive-lab/mambo)
 
 View Github [here](https://github.com/AlphaDaze/mambo-docs/)
+
 ___
 
 ### Add Pages
