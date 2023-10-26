@@ -4,6 +4,7 @@ Work-in-progress documentation for [MAMBO](https://github.com/beehive-lab/mambo)
 
 View documentation [here](https://alphadaze.github.io/mambo-docs/)
 
+___
 
 ### Add Pages
 Write markdown pages!
@@ -39,3 +40,7 @@ Write markdown pages!
   ---
   # <YOUR MARKDOWN HERE>
   ```
+
+___
+
+[just-the-docs](https://just-the-docs.com/) supports much more!
